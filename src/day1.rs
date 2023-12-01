@@ -35,3 +35,7 @@ pub fn a() {
 
     println!("The code is {}", sum);
 }
+
+pub fn b() {
+    println!("TODO");
+}

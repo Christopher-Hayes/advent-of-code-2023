@@ -2,5 +2,7 @@ mod day1;
 mod halp;
 
 fn main() {
-    day1::a()
+    // Day 1
+    // day1::a();
+    day1::b();
 }
